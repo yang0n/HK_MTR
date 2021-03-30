@@ -6,8 +6,8 @@ My neighborhood train station has 2 different lines where both lines take me to 
 HKMTR had already developed standalone app however this requires you to install the app on the phone. My argument is that we do not need to install extra program and we can still check the train time by using existing chat program such as Telegram. 
 
 I used the following website as my starting point:
-https://data.gov.hk/en-data/dataset/mtr-data2-nexttrain-data
-https://opendata.mtr.com.hk/doc/Next_Train_API_Spec_v1.1.pdf
+* https://data.gov.hk/en-data/dataset/mtr-data2-nexttrain-data
+* https://opendata.mtr.com.hk/doc/Next_Train_API_Spec_v1.1.pdf
 
 Take note that there are only 4 train lines available in MTR's API and thus in my Telegram bot although there are 11 main lines running in Hong Kong S.A.R.
 
@@ -19,8 +19,6 @@ Take note that there are only 4 train lines available in MTR's API and thus in m
 
 ## Gif on how to use 
 [Click on the video here](https://vimeo.com/530733514)
-
-<iframe src="https://player.vimeo.com/video/530733514?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="352" height="626" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Traintime"></iframe>
 
 
 ![HKTraintime intro gif](gif/Traintime.gif)

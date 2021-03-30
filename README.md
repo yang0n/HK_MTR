@@ -13,7 +13,7 @@ Take note that there are only 4 train lines available in MTR's API although ther
 
 ## How to use this program?
 1) Install Telegram app in your phone
-2) Subscribe to @HKtrainTime in Telegram app
+2) Subscribe to @HKtrainTime_bot in Telegram app
 3) Type "/start" into the chatbox and start using!
 
 

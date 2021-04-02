@@ -16,7 +16,7 @@ So, instead, I made this Telegram bot.
 
 # How to use this program?
 1) Install Telegram app in your phone
-2) Subscribe to [t.me/HKtrainTime](https://t.me/HKtrainTime_bot) in Telegram app
+2) Subscribe to @HKtrainTime_bot (or) [t.me/HKtrainTime](https://t.me/HKtrainTime_bot) in Telegram app
 3) Type "/start" into the chatbox and start using!
 
 
